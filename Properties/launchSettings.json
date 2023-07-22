@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "tmodextractor": {
+      "commandName": "Project",
+      "commandLineArgs": "CalamityMod.tmod",
+      "workingDirectory": "C:\\Users\\bramb\\OneDrive\\Documents"
+    }
+  }
+}

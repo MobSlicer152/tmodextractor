@@ -1,0 +1,17 @@
+C:\Users\bramb\source\repos\tmodextractor\bin\Release\net6.0-windows\tmodextractor.exe
+C:\Users\bramb\source\repos\tmodextractor\bin\Release\net6.0-windows\tmodextractor.deps.json
+C:\Users\bramb\source\repos\tmodextractor\bin\Release\net6.0-windows\tmodextractor.runtimeconfig.json
+C:\Users\bramb\source\repos\tmodextractor\bin\Release\net6.0-windows\tmodextractor.dll
+C:\Users\bramb\source\repos\tmodextractor\bin\Release\net6.0-windows\tmodextractor.pdb
+C:\Users\bramb\source\repos\tmodextractor\bin\Release\net6.0-windows\SixLabors.ImageSharp.dll
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\tmodextractor.csproj.AssemblyReference.cache
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\tmodextractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\tmodextractor.AssemblyInfoInputs.cache
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\tmodextractor.AssemblyInfo.cs
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\tmodextractor.csproj.CoreCompileInputs.cache
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\tmodextractor.csproj.CopyComplete
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\tmodextractor.dll
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\refint\tmodextractor.dll
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\tmodextractor.pdb
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\tmodextractor.genruntimeconfig.cache
+C:\Users\bramb\source\repos\tmodextractor\obj\Release\net6.0-windows\ref\tmodextractor.dll
